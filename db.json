@@ -1,1 +1,1 @@
-{"orders":[{"price":"1.07","created_at":"2020-04-06T23:00:49Z"},{"price":"1.0","created_at":"2020-03-29T20:08:07Z"},{"price":"1.15","created_at":"2020-03-27T00:04:28Z"},{"price":"1.2","created_at":"2020-03-26T23:31:30Z"}]}
+{"closedorders":[{"price":"1.07","created_at":"2020-04-06T23:00:49Z"},{"price":"1.0","created_at":"2020-03-29T20:08:07Z"},{"price":"1.15","created_at":"2020-03-27T00:04:28Z"},{"price":"1.2","created_at":"2020-03-26T23:31:30Z"}]}
